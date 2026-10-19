@@ -1,0 +1,1 @@
+"""SocialRocketAI-inspired educational scheduler."""
